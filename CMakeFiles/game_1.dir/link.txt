@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/game_1.dir/src/helloworld.cpp.o  -o game_1 /usr/lib/libIrrlicht.so 
